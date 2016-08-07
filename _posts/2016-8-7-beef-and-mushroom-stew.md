@@ -1,6 +1,6 @@
 ---
 title: Beef and Mushroom Stew
-categories: food
+category: food
 ---
 
 Ahh its time to relax, and you know what that means: a glass of wine, your favourite easy chair, and of course, this compact disk playing on your home stereo.. 
