@@ -12,7 +12,7 @@ Slow Cooker stews are easy just like this recipe.
 * 1 carrot large
 * 4 garlic cloves 
 * 1 cup (250ml) dry red wine
-* 1/4 cup tomato paste
+* 1/4 cup tomato paste[^1]
 * 1 teaspoon of sugar
 * 1kg gravy beef
 * 1 fennel bulb
@@ -27,7 +27,7 @@ Slow Cooker stews are easy just like this recipe.
 ## Cooking
 
 * Onion Mixture
-  * Add 2 tablespoons of oil and cook bacon, mushrooms, onion, garlic, and carrot, sitrring until onions begin to soften.
+  * Add 2 tablespoons of oil and cook bacon, mushrooms, onion, garlic, and carrot, stirring until onions begin to soften.
   * Add the wine, sugar, and paste. Bring to the boil for 2 minutes uncovered.
 
 * Add the onion mixture, beef, and fennel to your slow cooker.
@@ -35,6 +35,6 @@ Slow Cooker stews are easy just like this recipe.
 
 ## Notes
 
-I didnt have tomato paste so I used a pasta stir-through sauce. Worked fine. 
+[^1]: I didnt have tomato paste so I used a pasta stir-through sauce. Worked fine. 
 
 
