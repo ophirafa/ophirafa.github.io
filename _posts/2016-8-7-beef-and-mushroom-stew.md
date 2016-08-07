@@ -2,7 +2,7 @@
 title: "Beef and Mushroom Stew"
 ---
 
-Slow Cooker stews are easy just like this recipe.
+Ahh its time to relax, and you know what that means: a glass of wine, your favourite easy chair, and of course, this compact disk playing on your home stereo.. 
 
 ## Ingredients
 
@@ -12,7 +12,7 @@ Slow Cooker stews are easy just like this recipe.
 * 1 carrot large
 * 4 garlic cloves 
 * 1 cup (250ml) dry red wine
-* 1/4 cup tomato paste[^1]
+* 1/4 cup tomato paste [^1]
 * 1 teaspoon of sugar
 * 1kg gravy beef
 * 1 fennel bulb
