@@ -51,6 +51,16 @@ bitcoin_url:
 paypal_url:
 flattr_button:
 
+# defaults
+
+defaults:
+   -
+     scope:
+        path: ""
+        type: "posts"
+     values:
+        layout: "default"
+        
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
