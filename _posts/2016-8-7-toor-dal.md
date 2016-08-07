@@ -1,7 +1,10 @@
 ---
 title: Toor Dal
 categories: food vegetarian
+summary: super easy no meat meal
 ---
+
+When I dont feel like eating meat, or want a break from all the meat I have been eating.
 
 ## Ingredients
 
