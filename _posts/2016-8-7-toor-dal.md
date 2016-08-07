@@ -1,27 +1,27 @@
 ---
 title: Toor Dal
 categories: food vegetarian
-summary: super easy no meat meal
+summary: Super easy when meat is not an option.
 ---
 
 When I dont feel like eating meat, or want a break from all the meat I have been eating.
 
 ## Ingredients
 
-250g yellow split peas
-6 garlic cloves
-1 cm ginger
-1 tsp tumeric
-1 tsp black mustard seeds
-2 tsp cumin seeds
-2 dried chillies
-6 curry leaves
-1 tsp chilli powder
-1 tsp asafoetida powder
-1 can of diced tomatoes
-1 litre of water
-pinch of sea salt
-coriander leaves (garnish)
+* 250g yellow split peas
+* 6 garlic cloves
+* 1 cm ginger
+* 1 tsp tumeric
+* 1 tsp black mustard seeds
+* 2 tsp cumin seeds
+* 2 dried chillies
+* 6 curry leaves
+* 1 tsp chilli powder
+* 1 tsp asafoetida powder
+* 1 can of diced tomatoes
+* 1 litre of water
+* pinch of sea salt
+* coriander leaves (garnish)
 
 ## Preparation
 
