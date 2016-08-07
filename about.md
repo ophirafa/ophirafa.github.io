@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 tags: about
 ---
-The food I cook for the fam; the board game's and music I'm into.
-
+A place to store the simple/easy recipies I use to feed the house. Recipies are often low cost and/or quick to make.
