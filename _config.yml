@@ -1,11 +1,11 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Blog
+email:       ophirafar@gmail.com
+author:      Ophirafa
+description: "A test blog"
 baseurl:     ""
-url:         "http://pixyll.com"
-date_format: "%b %-d, %Y"
+url:         "https://ophirafa.github.io"
+date_format: "%A %b %d, %Y"
 
 # Google services
 google_verification:
@@ -34,13 +34,13 @@ disqus_shortname:
 # (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments:
 facebook_appid:
-facebook_comments_number: 10
+facebook_comments_number: 
 
 # Social icons
-github_username:
+github_username: ophirafa
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: ophirafar
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -54,8 +54,8 @@ flattr_button:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
