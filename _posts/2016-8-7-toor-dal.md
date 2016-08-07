@@ -4,7 +4,7 @@ categories: food vegetarian
 summary: Super easy when meat is not an option.
 ---
 
-When I dont feel like eating meat, or want a break from all the meat I have been eating.
+Simple and quite enjoyable.
 
 ## Ingredients
 
@@ -29,11 +29,11 @@ When I dont feel like eating meat, or want a break from all the meat I have been
 * Add the split peas to the pot and boil for an hour 
 * Finely dice the garlic and ginger
 * Ready mixture:
- * cumin seeds
- * chillies and chilli powder
- * asafoetida powder
- * curry leaves
- * garlic and ginger
+  * cumin seeds
+  * chillies and chilli powder
+  * asafoetida powder
+  * curry leaves
+  * garlic and ginger
 
 ## Cooking
 
