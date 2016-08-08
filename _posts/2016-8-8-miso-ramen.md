@@ -1,6 +1,6 @@
 ---
 title: Miso Ramen with Gochujang
-date: 2016-8-7
+date: 2016-8-8
 summary: Fast miso ramen with gochujang. 
 categories: food pork noodles 
 ---

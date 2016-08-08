@@ -51,6 +51,15 @@ bitcoin_url:
 paypal_url:
 flattr_button:
 
+
+collections:
+  boardgames:
+    output: true
+    permalink: /boardgames/:path/
+
+
+
+
 # defaults
 
 defaults:
@@ -61,6 +70,8 @@ defaults:
      values:
         layout: "post"
         
+
+
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
