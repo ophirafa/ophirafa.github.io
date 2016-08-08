@@ -33,12 +33,12 @@ Quick miso noodles.
 ## Cooking
 
 * Fry minced ingredients in sesame oil until fragrant medium heat
-* Turn up to high and add pork. Cook until browned.
-* Add sesame seeds, miso, and gochujang. Stir well.
+* Turn up to high add pork and cook until browned.
+* Add sesame seeds, miso, gochujang and stir well.
 * Add sake, mirin, stock and pepper.
 * Simmer soup gently while cooking the noodles.
 
-Drain cooked noodles and serve, with the ramen soup.
+Drain cooked noodles and serve with the ramen soup.
 
 ## Notes
 
