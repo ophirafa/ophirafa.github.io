@@ -4,11 +4,6 @@ layout: default
 
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
-  <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
-  {% if page.update_date %}
-    <span class="post-meta">{{ site.text.post.updated }}: {{ page.update_date | date: site.date_format }}</span><br>
-  {% endif %}
-
 </div>
 
 <article class="post-content">
@@ -53,13 +48,3 @@ layout: default
     </div>
   {% endfor %}
 {% endif %}
-
-<!--
-<div class="boardgame">
-  <h2>{{ page.title }}</h2>
-
-  <div class="blog-post spacing">
-    {{ content }}
-  </div>
-</div>
--->
