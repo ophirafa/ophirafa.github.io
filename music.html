@@ -1,0 +1,29 @@
+---
+layout: default
+title: Music
+tags: musics
+---
+<div class="posts">
+{% for music in site.musics %}
+<div class="post py3">
+         <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <a href="{{ music.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ music.title }}</h3></a>
+          <p class="post-summary">
+            {% if music.summary %}
+              {{ music.summary }}
+            {% else %}
+              {{ music.excerpt }}
+            {% endif %}
+          </p>
+	</div>
+{% endfor %}
+</div>
+
+
+<!--
+{% for music in site.boardgames %}
+	<div class="music">
+		<h2><a href="{{ music.url }}">{{ music.title }}</a></h2>
+	</div>
+{% endfor %}
+-->

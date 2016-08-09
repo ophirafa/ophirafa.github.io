@@ -1,0 +1,29 @@
+---
+layout: default
+title: Recipes
+tags: foods
+---
+<div class="posts">
+{% for food in site.food %}
+<div class="post py3">
+         <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <a href="{{ food.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ food.title }}</h3></a>
+          <p class="post-summary">
+            {% if food.summary %}
+              {{ food.summary }}
+            {% else %}
+              {{ food.excerpt }}
+            {% endif %}
+          </p>
+	</div>
+{% endfor %}
+</div>
+
+
+<!--
+{% for food in site.boardgames %}
+	<div class="food">
+		<h2><a href="{{ food.url }}">{{ food.title }}</a></h2>
+	</div>
+{% endfor %}
+-->
