@@ -54,7 +54,7 @@ flattr_button:
 
 collections:
   
-  foods:
+  food:
     output: true
     permalink: /food/:path/
   
@@ -62,7 +62,7 @@ collections:
     output: true
     permalink: /boardgames/:path/
     
-  musics:
+  music:
     output: true
     permalink: /music/:path/
     
