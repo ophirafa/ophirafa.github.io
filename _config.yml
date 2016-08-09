@@ -70,11 +70,6 @@ defaults:
      values:
         layout: "post"
         
-     scope: 
-        path: ""
-        type: boardgames
-     values:
-        layout: "post"           
 
 # Post sharing icons
 show_sharing_icons: false
