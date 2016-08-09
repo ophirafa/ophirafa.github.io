@@ -73,17 +73,17 @@ collections:
 
 defaults:
    #posts
-   -scope:
+   - scope:
         path: ""
         type: posts
      values:
         layout: "post"
     #food
-   -scope:
+   - scope:
         path: ""
         type: food
      values:
-        layout: food
+        layout: post
         
 
 # Post sharing icons
