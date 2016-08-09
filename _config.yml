@@ -77,14 +77,31 @@ defaults:
         path: ""
         type: posts
      values:
-        layout: "post"
+        layout: post
     #food
    - scope:
         path: ""
         type: food
      values:
+        layout: food
+    #boardgame
+   - scope:
+        path: ""
+        type: boardgames
+     values:
+        layout: boardgame
+    #music
+   - scope:
+        path: ""
+        type: music
+     values:
+        layout: music
+    #blog
+   - scope:
+        path: ""
+        type: post
+     values:
         layout: post
-        
 
 # Post sharing icons
 show_sharing_icons: false
