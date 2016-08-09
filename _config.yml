@@ -72,10 +72,16 @@ collections:
 # defaults
 
 defaults:
-   -
-     scope:
+   #posts
+   -scope:
         path: ""
         type: posts
+     values:
+        layout: "post"
+    #food
+   -scope:
+        path: ""
+        type: food
      values:
         layout: "post"
         
