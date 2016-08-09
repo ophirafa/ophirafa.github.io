@@ -83,7 +83,7 @@ defaults:
         path: ""
         type: food
      values:
-        layout: post
+        layout: food
         
 
 # Post sharing icons
