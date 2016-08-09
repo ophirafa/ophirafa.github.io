@@ -56,7 +56,7 @@ collections:
   boardgames:
     output: true
     permalink: /boardgames/:path/
-
+    
 
 
 
@@ -71,6 +71,11 @@ defaults:
         layout: "post"
         
 
+     scope: 
+        path: ""
+        type: boardgames
+     values:
+        layout: page           
 
 # Post sharing icons
 show_sharing_icons: false
