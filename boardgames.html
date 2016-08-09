@@ -3,6 +3,7 @@ layout: page
 title: Boardgames
 tags: boardgames
 ---
+<div class="posts">
 {% for boardgame in site.boardgames %}
 <div class="post py3">
           <p class="post-meta">{{ post.date | date: site.date_format }}</p>
@@ -14,6 +15,7 @@ tags: boardgames
               {{ post.excerpt }}
             {% endif %}
           </p>
+	</div>
 </div>
 {% endfor %}
 
