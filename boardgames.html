@@ -9,10 +9,10 @@ tags: boardgames
           <p class="post-meta">{{ post.date | date: site.date_format }}</p>
           <a href="{{ boardgame.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ boardgame.title }}</h3></a>
           <p class="post-summary">
-            {% if post.summary %}
-              {{ post.summary }}
+            {% if boardgame.summary %}
+              {{ boardgame.summary }}
             {% else %}
-              {{ post.excerpt }}
+              {{ boardgame.excerpt }}
             {% endif %}
           </p>
 	</div>
