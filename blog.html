@@ -4,7 +4,7 @@ title: Blog
 tags: blog
 ---
 <div class="posts">
-{% for blog in site.blog reversed%}
+{% for blog in site.blog reversed %}
 <div class="post py3">
          <p class="post-meta">{{ blog.date | date: site.date_format }}</p>
           <a href="{{ blog.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ blog.title }}</h3></a>
