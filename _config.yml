@@ -68,7 +68,7 @@ collections:
     
   blog:
     output: true
-    permalink: /blog/:path/
+#    permalink: /blog/:path/
 
 
 # defaults
