@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why
+title: Raisons d'Etre
 ---
 
 A site made primarly for the mobile viewing of:  
