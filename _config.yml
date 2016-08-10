@@ -101,7 +101,7 @@ defaults:
     #blog
    - scope:
         path: ""
-        type: post
+        type: blog
      values:
         layout: post
 
