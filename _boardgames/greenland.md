@@ -13,33 +13,32 @@ Contents:
 
 ## Winning<a name="winning"></a>
 
-Winner: tally VP  
-Tie: all win  
+The winner is determined by VP, with ties resulting in joint winners.
 
-**End Game** is triggered at the end of the last turn of the **event deck**, or at the end of a turn where no warm or cold cards remain in either row.  
+**End Game:** Triggered at the end of the last turn of the **event deck**, or at the end of a turn where no warm or cold cards remain in either row.  
 
-**Extinction** occurs when any player has only daughter cubes remaining. That player is eliminated.
+**Extinction:** Occurs when any player has only daughter cubes remaining. That player is eliminated.
 
 ### Generating VP
 
 Note: Polytheism and Monotheism generate points differently.
 
-_Population_:    
+_Population:_    
 
 * 1 VP per cube or cylinder not in Valhalla  
 * 2 VP per cube on cold side New Worlds (otherwise as above).
 
-_Trophy (Polytheism)_:
+_Trophy (Polytheism):_
 
 * Card's in your tableau with a trophy icon list their VP value.
 
-_Resources (Monotheism)_:
+_Resources (Monotheism):_
 
 * 1 VP per Ivory
 * 2 VP per Iron
 * Cards in your tableau with either resource value are converted into those points for end game scoring.
 
-_Representative (Monotheism)_:
+_Representative (Monotheism):_
 
 * 4 VP per (opponent) placard where you have a **representative** cube.
 

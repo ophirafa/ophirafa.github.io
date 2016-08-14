@@ -8,20 +8,20 @@ Easy and very mild[^1] curry.
 
 ## Ingredients
 
-1/2 pack of Japanese Curry Roux
-1/4 cup of sake
-1 Tbsp soy sauce
-1 Tbsp mirin
-1 cup of chicken stock
-1 cup of water
-500g chicken thighs
-4 cloves of garlic
-2 onions large
-1 carrot large
-2 potatoes large
-Peas
-Olive oil
-White pepper
+* 1/2 pack of Japanese Curry Roux
+* 1/4 cup of sake
+* 1 Tbsp soy sauce
+* 1 Tbsp mirin
+* 1 cup of chicken stock
+* 1 cup of water
+* 500g chicken thighs
+* 4 cloves of garlic
+* 2 onions large
+* 1 carrot large
+* 2 potatoes large
+* Peas
+* Olive oil
+* White pepper
 
 
 ## Preparation
