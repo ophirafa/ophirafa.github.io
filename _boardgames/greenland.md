@@ -4,8 +4,6 @@ title: Greenland
 summary: Will your people thrive, or perish, to the inhospitable Greenland?  
 ---
 
-Contents:  
-
 [Winning](#winning)  
 [Turn Sequence](#turn-sequence)  
 [Actions](#actions)  
