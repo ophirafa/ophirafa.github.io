@@ -8,4 +8,4 @@ Cookie in the sky:
 yellow moon full, bright, lingers   
 in our town tonight.  
 
-![Moon](http://imgur.com/a/geRVz)
+![Moon](http://i.imgur.com/EUCpaVV.png)
